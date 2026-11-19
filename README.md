@@ -5,7 +5,7 @@
 **Interactive Tableau dashboards comparing the current year (CY) with the previous year (PY)**
 
 ![Dashboard1](https://img.shields.io/badge/Dashboards-2-1F77B4)
-![Dashboard2](https://img.shields.io/badge/Status-Completed-2CA02C)
+![Status](https://img.shields.io/badge/Status-Completed-2CA02C)
 
 [🔗 **View Live Dashboard**](https://public.tableau.com/app/profile/gunel.khalilli3119/viz/SalesDashboard_17945898751750/CustomerDashboard)
 
