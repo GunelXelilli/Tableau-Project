@@ -44,7 +44,7 @@ This project tracks **sales performance** and **customer behavior** in two conne
 | Category | Details |
 |---|---|
 | **Calculated fields** | CY and PY measures, % Diff |
-| **Functions** | `SUM`, `COUNTD`, `IF`, `FIXED` LOD expressions and more |
+| **Functions** | `SUM`, `COUNTD`, `IF`, `FIXED` LOD expressions |
 | **Table calculations** | `WINDOW_MAX`, `WINDOW_MIN`, with Compute Using |
 | **Visuals and interactivity** | Dual axis charts, filters, navigation between dashboards |
 
