@@ -54,7 +54,6 @@ This project tracks **sales performance** and **customer behavior** in two conne
 
 | | |
 |---|---|
-| **Author** | Your Name |
+| **Author** | Gunel Khalilli|
 | **Tool** | Tableau Public |
-| **Data source** | Dataset name / file format |
-| **Live link** | [Open on Tableau Public](PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE) |
+
